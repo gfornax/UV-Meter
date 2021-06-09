@@ -35,6 +35,7 @@ For pinout, refer to the source code and/or the pinout for the I2C pins.
 ![case](https://user-images.githubusercontent.com/5310025/121423046-250c1100-c970-11eb-9732-5c5b9ca6fc8c.jpg)
 
 stls for the case are available in the repo, as well as the FreeCAD project files. Please be aware I am a FreeCAD novice.
+I printed it with PETG, 0.2mm, 25% infill, 3 solid walls and 5 solid top/bottom layers.
 
 ![case2](https://user-images.githubusercontent.com/5310025/121423355-74524180-c970-11eb-9032-4f491a377969.jpg)
 
